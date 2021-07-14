@@ -1,0 +1,37 @@
+Coal.Australia  - Coal Price of Australia ($/tonne)
+Coal.SA - Coal Price of South Africa ($/tonne)
+Crude Oil - $/Barrel
+Natural Gas - $ / million BTUs
+Gold - $ / ounce
+Silver - $ / ounce
+Copper - $ / Tonne
+Iron Ore - $ / Dry Metric Tonne
+
+Commodity Index:
+A commodity index is an investment vehicle that tracks the price and the return on investment of a basket of commodities. 
+The value of these indexes fluctuates based on their underlying commodities
+
+Similarly—> Metal index, Non Fuel index, and Crude oil index 
+
+BCI: Business Confidence Index
+This business confidence indicator provides information on future developments, 
+based upon opinion surveys on developments in production, orders and stocks of finished 
+oods in the industry sector. It can be used to monitor output growth and to anticipate turning 
+points in economic activity. Numbers above 100 suggest an increased confidence in near future 
+business performance, and numbers below 100 indicate pessimism towards future performance.
+
+CCI: Consumer Confidence Index
+This consumer confidence indicator provides an indication of future developments of households’ 
+consumption and saving, based upon answers regarding their expected financial situation, their sentiment 
+about the general economic situation, unemployment and capability of savings. 
+An indicator above 100 signals a boost in the consumers’ confidence towards the future economic situation, 
+as a consequence of which they are less prone to save, and more inclined to spend money on 
+major purchases in the next 12 months. Values below 100 indicate a pessimistic attitude towards 
+future developments in the economy, possibly resulting in a tendency to save more and consume less.
+
+CLI: Composite Leading Indicator
+The composite leading indicator (CLI) is designed to provide early signals of turning points in business cycles showing
+ fluctuation of the economic activity around its long term potential level. CLIs show short-term 
+economic movements in qualitative rather than quantitative terms
+
+PMI: Purchasing Managers Index
