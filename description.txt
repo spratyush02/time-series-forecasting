@@ -35,3 +35,12 @@ The composite leading indicator (CLI) is designed to provide early signals of tu
 economic movements in qualitative rather than quantitative terms
 
 PMI: Purchasing Managers Index
+
+
+			Mesut: LSTM( TALOS)
+
+			Evreryone: look at the code and rephrase RQs
+			ML
+			Report: Introduction, Dataset, EDA (data cleaning, feature selcetion, statinonarity..), Models(ARIMA, LSTM, ML), Resuls, Conclusion - We answer all question from project guideline pdf
+
+			Friday: 4 pm 
