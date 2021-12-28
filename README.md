@@ -1,5 +1,5 @@
 # Data Science pipeline for prediction of Coal Prices.
-We provide project report file to understand our extensive EDA and methodologies.
+We provide project report file to understand our extensive EDA, Research Questions and methodologies.
 
 The notebook is very well commented to understand everything required to run this project.
 
