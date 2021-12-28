@@ -4,12 +4,13 @@ We provide project report file to understand our extensive EDA and methodologies
 The notebook is very well commented to understand everything required to run this project.
 
 Highlights:
-    Extensive EDA
-    Feature Selection and Extraction
-    ARIMA Model Trained
-    XGBRegressor (ML) trained
-    LSTM (DL) trained
-    Hyperparameter tuning using TALOS
+
+1) Extensive EDA
+2) Feature Selection and Extraction
+3) ARIMA Model Trained
+4) XGBRegressor (ML) trained
+5) LSTM (DL) trained
+6) Hyperparameter tuning using TALOS
 
 # Introduction
 
